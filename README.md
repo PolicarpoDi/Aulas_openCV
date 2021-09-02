@@ -1,2 +1,2 @@
 # Aulas_openCV
-mini projetos realizados em estudo
+Projetos criados em estudo para manipulação de imagens com a biblioteca openCV.
